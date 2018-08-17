@@ -36,5 +36,10 @@ pip install -r requirements.txt
 
 ```
 
+- ccxt更新
+
+```sh
+pip install --upgrade ccxt 
+```
 
 
